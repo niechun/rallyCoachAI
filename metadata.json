@@ -1,0 +1,7 @@
+{
+  "name": "RallyCoach AI",
+  "description": "Professional tennis analysis powered by computer vision and Gemini 3.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
